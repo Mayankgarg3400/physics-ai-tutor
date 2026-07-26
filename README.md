@@ -203,6 +203,9 @@ assets/demo.png
 - ✅ Deploy on Streamlit Cloud
 
 ---
+## 📸 Demo
+
+![Physics AI Tutor](assets/demo.png)
 
 ## 👨‍💻 Author
 
