@@ -205,7 +205,7 @@ assets/demo.png
 ---
 ## 📸 Demo
 
-![Physics AI Tutor](assets/demo.png)
+![Physics AI Tutor](assets/demo.jpeg)
 
 ## 👨‍💻 Author
 
